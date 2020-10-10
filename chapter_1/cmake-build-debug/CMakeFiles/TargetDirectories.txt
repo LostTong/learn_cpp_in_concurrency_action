@@ -1,0 +1,3 @@
+/mnt/d/Tong/project/local/git/learn_cpp_in_concurrency_action/chapter_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/Tong/project/local/git/learn_cpp_in_concurrency_action/chapter_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/Tong/project/local/git/learn_cpp_in_concurrency_action/chapter_1/cmake-build-debug/CMakeFiles/Test.dir

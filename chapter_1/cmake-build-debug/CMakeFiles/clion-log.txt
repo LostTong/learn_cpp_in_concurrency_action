@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /mnt/d/Tong/project/local/git/learn_cpp_in_concurrency_action/chapter_1
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/d/Tong/project/local/git/learn_cpp_in_concurrency_action/chapter_1/cmake-build-debug

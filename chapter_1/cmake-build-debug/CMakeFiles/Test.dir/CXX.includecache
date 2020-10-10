@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/Tong/project/local/git/learn_cpp_in_concurrency_action/chapter_1/1_5.cpp
+cstdio
+-
+thread
+-
+unistd.h
+-
+
